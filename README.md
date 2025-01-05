@@ -2,6 +2,8 @@
 
 A command-line interface for managing tasks with status tracking capabilities.
 
+based on the [task-tracker](https://roadmap.sh/projects/task-tracker) project
+
 ## Setup
 
 1. Clone the repository
